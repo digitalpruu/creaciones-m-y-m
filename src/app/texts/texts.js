@@ -28,8 +28,8 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/profile.php?id=100009135271755&mibextid=ZbWKwL",
-        instagram: "", // Información no proporcionada
+        facebook: "https://www.facebook.com/profile.php?id=61565869203959&mibextid=ZbWKwL",
+        instagram: "https://www.instagram.com/", // Información no proporcionada
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
 };

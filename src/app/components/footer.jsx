@@ -19,7 +19,7 @@ export default function TheFooter() {
             </div>
             <div className="social-media">
                 <h3>{Texts.footer.address}</h3>
-                <h3>{Texts.footer.phone}</h3>
+                <h3>{Texts.footer.phone} - 310 8869110</h3>
                 <h3>Síguenos</h3>
                 <div className="social-media-icon">
                     <a target="_blank" rel="noopener noreferrer"
